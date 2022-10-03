@@ -1,4 +1,3 @@
-# Unity
 #This a Basic FlappyBirdClone.
 #There is no sound and Exit Button.
 #Use the task Manager to exit the game.
